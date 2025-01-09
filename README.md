@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- Daniel hurtado (1).png
+![Daniel hurtado (1)](https://github.com/user-attachments/assets/0196beda-3cac-414b-a704-feb74d37aa32)
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning Fullstack on Javascript
 - 📫 How to reach me danielestebanhd.kb24@gmail.com
