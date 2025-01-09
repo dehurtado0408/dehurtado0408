@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Daniel 
+- 👋 Hi, I’m Daniel
+- Daniel hurtado (1).png
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning Fullstack on Javascript
 - 📫 How to reach me danielestebanhd.kb24@gmail.com
